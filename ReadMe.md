@@ -1,21 +1,71 @@
-[# 💫 About Me:
-I'm Currently learning Python, Data engineering and ETL process
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cesaraugustodev) 
-
-# 💻 Tech Stack:
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cesaraugustodev2&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cesaraugustodev2&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cesaraugustodev2&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cesaraugustodev2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <h1>Olá, eu sou o Cesar Augusto! 👋</h1>
+  <h3>Desenvolvedor de Software | AI-Assisted Development | Cloud & DevOps</h3>
+  
+  <a href="https://www.linkedin.com/in/cesaraugustodev" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:csantos3600@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://cesaraugustodev2.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio">
+  </a>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=cesaraugustodev2&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->](https://github.com/cesaraugustodev2)
+### 👨‍💻 Sobre mim
+
+Profissional de tecnologia com mais de 5 anos de vivência em operações de TI de grande porte (Natura & Co), unindo uma sólida base em **SRE e DevOps** ao desenvolvimento de software moderno. Minha transição para a engenharia de software é impulsionada por automação, metodologias ágeis e, principalmente, Inteligência Artificial. 
+
+- 🔭 Atualmente construindo soluções com **React, TypeScript e Google Cloud (GCP)**.
+- 🤖 Potencializando entregas e refatorações de código através do **Desenvolvimento Guiado por IA (Google Gemini e Anti gravity)**.
+- 🛡️ Foco em resiliência de sistemas, análise de causa raiz (ITIL4) e monitoramento (Dashboards).
+- 🌍 **Inglês Fluente** (Full Professional), preparado para atuar em equipes globais.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+**Desenvolvimento & Front-End:**
+<br>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+**Cloud & DevOps:**
+<br>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+
+**Inteligência Artificial & Dados:**
+<br>
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Assisted_Dev-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+---
+
+### 🏆 Certificações em Destaque
+
+- 🏅 **Generative AI Leader** - *Google Cloud*
+- 🏅 **Introduction to DevOps and Site Reliability Engineering (LFS162)** - *The Linux Foundation*
+- 🏅 **OCI 2025 Certified AI Foundations Associate** - *Oracle*
+- 🏅 **Use Machine Learning APIs on Google Cloud** - *Google Cloud Skill Badge*
+
+---
+
+### 🚀 Projetos em Destaque
+
+*   **[DBA-IA](https://github.com/cesarsantos2-naturaco/DBA-IA)** 
+    *Projeto autoral desenvolvido para [inserir o objetivo do projeto, ex: automatizar consultas ou otimizar bancos de dados usando IA]. Construído utilizando [inserir stack, ex: TypeScript, GCP e Gemini].*
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=cesaraugustodev2&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesaraugustodev2&layout=compact&theme=radical"/>
+</div>
